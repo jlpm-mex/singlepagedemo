@@ -10,19 +10,19 @@
 <h1 align="center">Single Page App Demo</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jlpm-mex/singlepageappdemo?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jlpm-mex/singlepagedemo?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jlpm-mex/singlepageappdemo?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jlpm-mex/singlepagedemo?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jlpm-mex/singlepageappdemo?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jlpm-mex/singlepagedemo?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/jlpm-mex/singlepageappdemo?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/jlpm-mex/singlepagedemo?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/jlpm-mex/singlepageappdemo?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/jlpm-mex/singlepagedemo?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/jlpm-mex/singlepageappdemo?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/jlpm-mex/singlepagedemo?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/jlpm-mex/singlepageappdemo?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/jlpm-mex/singlepagedemo?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -72,10 +72,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/jlpm-mex/singlepageappdemo
+$ git clone https://github.com/jlpm-mex/singlepagedemo
 
 # Access
-$ cd singlepageappdemo
+$ cd singlepagedemo
 
 # Install dependencies
 $ npm install
